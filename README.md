@@ -113,7 +113,6 @@ The dashboard includes:
 * Power BI dashboard
 * Gamma presentation report
 
----
 
 ## 👤 Author
 
@@ -121,7 +120,4 @@ BHUVAN KUMAR
 📧vetchabhuvan@gmail.com
 💼 [LinkedIn Profile]www.linkedin.com/in/bhuvan-kumar-315231379
 
----
 
-Would you like me to tailor this README for **a specific dataset** (like sales, HR, finance, or healthcare)?
-That helps me add more realistic examples and metrics to impress recruiters.
