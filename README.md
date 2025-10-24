@@ -117,9 +117,9 @@ The dashboard includes:
 
 ## 👤 Author
 
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+BHUVAN KUMAR
+📧vetchabhuvan@gmail.com
+💼 [LinkedIn Profile]www.linkedin.com/in/bhuvan-kumar-315231379
 
 ---
 
